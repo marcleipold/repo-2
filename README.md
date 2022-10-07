@@ -1,18 +1,20 @@
 # repo-2
 
-Who are you? 
+#Who are you? 
 
-- Marc Leipold
-
-
-What is your background?
-
-- French / Puerto Rican
+- **Marc Leipold**
 
 
-What are your career goals?
+##What is your background?
 
-- C Level exec at a fortune 500 FinTech firm.
+- *French* / Puerto Rican
+
+---
+
+
+###What are your career goals?
+
+- 'C Level exec at a fortune 500 FinTech firm.'
 
 
 Why did you choose FinTech as a career path?
